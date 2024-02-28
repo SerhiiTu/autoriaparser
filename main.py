@@ -156,7 +156,7 @@ def main():
 
 
 if __name__ == '__main__':
-    # main()
+    main()
     # clear_db()
-    print(check_db())
+    # print(check_db())
 
